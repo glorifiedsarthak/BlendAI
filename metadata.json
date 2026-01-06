@@ -1,0 +1,7 @@
+{
+  "name": "CineNode AI Studio",
+  "description": "A powerful AI-driven movie production suite. Generate cinematic scripts, high-fidelity 3D-style video clips using Veo, and professional voiceovers to create short films in minutes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
